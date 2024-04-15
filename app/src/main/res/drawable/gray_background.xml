@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/drawable/gray_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="#80DCDCDC" /> <!-- 设置背景颜色为灰色 -->
+    <corners android:radius="3dp" /> <!-- 设置圆角半径 -->
+</shape>
